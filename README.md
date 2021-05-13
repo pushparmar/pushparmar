@@ -1,5 +1,4 @@
 <h2> Hi, I'm Pushpendra Parmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Associate Software Enginner at <a href="https://www.atcs.com/">ATCS Inc.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 [![Twitter: Pushparmar](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/pushpenthakur)
